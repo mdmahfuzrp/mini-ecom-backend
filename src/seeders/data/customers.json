@@ -1,0 +1,68 @@
+[
+    {
+        "userId": 1,
+        "firstName": "Sarah",
+        "lastName": "Johnson",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10001",
+        "country": "USA",
+        "phone": "212-555-1234"
+    },
+    {
+        "userId": 2,
+        "firstName": "Michael",
+        "lastName": "Brown",
+        "address": "456 Oak Ave",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zipCode": "90001",
+        "country": "USA",
+        "phone": "310-555-6789"
+    },
+    {
+        "userId": 3,
+        "firstName": "Emily",
+        "lastName": "Davis",
+        "address": "789 Pine Rd",
+        "city": "Chicago",
+        "state": "IL",
+        "zipCode": "60007",
+        "country": "USA",
+        "phone": "312-555-4321"
+    },
+    {
+        "userId": 4,
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "address": "101 Maple Street",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02108",
+        "country": "USA",
+        "phone": "617-555-8765"
+    },
+    {
+        "userId": 5,
+        "firstName": "Bob",
+        "lastName": "Brown",
+        "address": "202 Cedar Avenue",
+        "city": "Seattle",
+        "state": "WA",
+        "zipCode": "98101",
+        "country": "USA",
+        "phone": "206-555-9876"
+    },
+    {
+        "userId": 6,
+        "firstName": "Charlie",
+        "lastName": "Davis",
+        "address": "303 Birch Boulevard",
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": "78701",
+        "country": "USA",
+        "phone": "512-555-3456"
+    }
+]
